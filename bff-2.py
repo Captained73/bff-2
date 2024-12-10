@@ -1,5 +1,5 @@
 # coding=utf-8
-# coding by Romi Afrizal
+# coding by
 # Note : jangan di ubah lagi! nanti error, script udah enak
 # Sekedar mengingatkan kalau mau decrypt script ini jangan salahin gw, jika semua data-data di hp (handphone) lu hilang (terhapus)
 
@@ -9,14 +9,6 @@ ingfo = (
 """%s
  • Info script :
  	
- - author      : Romi Afrizal
- - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
- - script name : bff-2
- - version     : 1.1
- 
 %s"""%(Hj,Mt))
 
 import os
